@@ -104,9 +104,7 @@ An item (represented by a green cube) will show up in Rviz. The robot will navig
 
 ## Behavior
 
- <img src = "./docs/p1.png">
-
 ### Watch The Video
 
-[![](/home/markov/ning_docs/robond/catkin_ws_p5/src/udacity-robond-p5/docs/p2.png)](http://www.youtube.com/watch?v=00jgy8y_vRs "")
+[![](http://img.youtube.com/vi/00jgy8y_vRs/0.jpg)](http://www.youtube.com/watch?v=00jgy8y_vRs "")
 
